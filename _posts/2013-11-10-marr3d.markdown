@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Marr3d - Sean's Portfolio"
+date:   2013-11-10 16:12:29
+categories: family 3d art videogames
+---
+
+# Marr3d
+This project is a landing page for Sean Marr for his artwork and video game experience.
+
+{{ gallery }}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
